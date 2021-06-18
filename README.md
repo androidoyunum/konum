@@ -1,1 +1,1 @@
-# konum
+merhaba
